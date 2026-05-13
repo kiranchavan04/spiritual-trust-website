@@ -1,1 +1,1 @@
-# spiritual-trust-website
+# trust-website
