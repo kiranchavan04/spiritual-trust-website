@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 16a33ae405ec99dfe8edc1353aaf9d37e1be20ae agent <agent@replit.com> 1778027931 +0000	commit (initial): Initial commit
+16a33ae405ec99dfe8edc1353aaf9d37e1be20ae cf742a4dc0f99cfcd1b779622d17fed63fe3dd6f chavankiran9075 <59067816-chavankiran9075@users.noreply.replit.com> 1778562957 +0000	commit: Add comprehensive backend and frontend functionality for spiritual trust website
+cf742a4dc0f99cfcd1b779622d17fed63fe3dd6f a042de987a625d50dd0c679832a5308476dc031c chavankiran9075 <59067816-chavankiran9075@users.noreply.replit.com> 1778563903 +0000	commit: Add functionality to manage products, events, and orders on the admin panel
+a042de987a625d50dd0c679832a5308476dc031c d3778de88f5f71a4fcdfafca490546791bee8fb0 chavankiran9075 <59067816-chavankiran9075@users.noreply.replit.com> 1778564632 +0000	commit: Add direct image uploads for products and events in admin panel
+d3778de88f5f71a4fcdfafca490546791bee8fb0 9c8c30914c46a30c9119790a204181c7e476d171 chavankiran9075 <59067816-chavankiran9075@users.noreply.replit.com> 1778564836 +0000	commit: Remove URL input from admin image upload, allowing only direct file uploads
+9c8c30914c46a30c9119790a204181c7e476d171 79900cce0d15b5150c179c2eba5137f1c7a77be5 chavankiran9075 <59067816-chavankiran9075@users.noreply.replit.com> 1778565179 +0000	commit: Published your App
