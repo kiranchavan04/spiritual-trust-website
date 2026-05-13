@@ -1,0 +1,3 @@
+[build]
+  command = "pnpm --filter @workspace/trust-website... run build"
+  publish = "artifacts/trust-website/dist"
